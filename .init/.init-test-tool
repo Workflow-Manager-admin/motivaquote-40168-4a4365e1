@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/motivaquote-40168-4a4365e1/motivational_quote_frontend"
+}
